@@ -1,0 +1,29 @@
+body {
+    background-color: gray;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding: 25px;
+    margin: 0;
+    overflow: auto;
+    text-align: right;
+    
+  }
+   
+#container ul {
+    margin-bottom: 10px;
+    list-style: none;
+    padding-top: 80px;
+  }
+
+#logo {
+  font-size: 60px;
+  text-align: left;
+  z-index: 10;
+  float: left;
+  width: 20%;
+  position: absolute;
+}
+
+#entire {
+  width: 100%;
+}
