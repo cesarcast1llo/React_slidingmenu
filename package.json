@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "eslint": "^6.2.2",
+    "extend": "^3.0.2",
+    "js-yaml": "^3.13.1",
+    "merge": "^1.2.1",
+    "mixin-deep": "^2.0.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "set-value": "^3.0.1",
+    "url-parse": "^1.4.7"
   },
   "scripts": {
     "start": "react-scripts start",
